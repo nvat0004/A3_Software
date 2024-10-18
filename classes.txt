@@ -1,0 +1,10 @@
+Yoga,Michael Davis,19/10/2024,07:00 PM,50,Weekly,2,Monash Gym,15,Cardio,Intermediate
+Pilates,Linda Wilson,20/10/2024,06:00 AM,30,Daily,1,Monash Gym,25,Mindfulness,Beginner
+Dance Fitness,Kevin Anderson,21/10/2024,05:00 PM,60,Monthly,2,Monash Gym,30,Mixed,Advanced
+Strength Training,Emily Thompson,22/10/2024,04:00 PM,45,Weekly,1,Monash Gym,20,Dance,Beginner
+High-Intensity Interval Training (HIIT),Matthew Taylor,20/10/2024,06:00 PM,55,Special,2,Monash Gym,25,Strength,Advanced
+Spinning and meditation,Olivia Martinez,21/10/2024,07:30 AM,50,Weekly,2,Monash Gym,15,Wellness,Intermediate
+Pilates,Reenu Vats,22/11/2024,09:30 AM,50,Weekly,52,Monash Sports,25,Strength,Intermediate
+Pilates,Janvi,11/12/2024,12,150,Weekly,500,Location,112,Category,BeginnerYoga,Janvi kumari,11/12/2024,16:00,90,Monthly,100,Studio 3,25,Yoga,Beginner
+Yoga,Aryan Gupta,11/12/2024,16:00,90,Monthly,100,Studio 3,25,Cardio,Advanced
+Yoga,Chaital,12/12/2024,15:00,90,Monthly,110,Studio 3,25,YOGA,Advanced

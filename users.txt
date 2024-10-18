@@ -1,0 +1,2 @@
+admin@monash.edu,Admin1234!,Admin,AdminFirstName,AdminLastName,+123456789
+member@student.monash.edu,Monash1234!,John,Doe,0400000000,01/01/2000,Male,"123 Street, Melbourne",1000
